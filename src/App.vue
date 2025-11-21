@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar navbar-expand-lg" style="background-color: #86bfe7ff;">
     <div class="container">
-      <a class="navbar-brand fw-bold text-white" href="/">888.com</a>
+      <a class="navbar-brand fw-bold text-white" href="/">office888</a>
       <button
         class="navbar-toggler"
         type="button"
@@ -36,6 +36,11 @@
             <li class="nav-item">
               <router-link class="nav-link" to="/register">
                 <i class="bi bi-person-plus"></i> ลงทะเบียน
+              </router-link>
+            </li>
+            <li class="nav-item">
+              <router-link class="nav-link" to="/Home">
+                <i class="bi bi-box-arrow-in-right"></i> รายการ
               </router-link>
             </li>
             <li class="nav-item">

@@ -1,4 +1,4 @@
-# 8888.000
+# homework
 
 ## Project setup
 ```
